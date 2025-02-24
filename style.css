@@ -123,6 +123,28 @@ body {
     margin-bottom: 5px;
 }
 
+#introduccion {
+    background-color: #fff;
+    padding: 60px 0;
+}
+
+#introduccion h2 {
+    color: #1e3a8a; /* Color primario */
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+#introduccion p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#introduccion .lead {
+    font-size: 1.2rem;
+}
+
 .comentario small {
     color: #666;
     font-size: 0.9em;
