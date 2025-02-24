@@ -102,3 +102,28 @@ body {
         display: none;
     }
 }
+
+.comentario {
+    border-left: 3px solid #1e3a8a; /* Color primario */
+    padding-left: 15px;
+    margin-bottom: 20px;
+    background-color: #f8f9fa; /* Fondo claro */
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+.comentario h5 {
+    color: #1e3a8a; /* Color primario */
+    margin-bottom: 10px;
+}
+
+.comentario p {
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.comentario small {
+    color: #666;
+    font-size: 0.9em;
+}
